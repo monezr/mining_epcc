@@ -5,11 +5,11 @@ import tweepy #https://github.com/tweepy/tweepy
 import json
 
 
-#Twitter API credentials
-consumer_key = "5fB1XI3rJEvGbvWmJ1HK0ddhh"
-consumer_secret = "jsS3sZOW1PDg1KBdtffAVD6uC43hejX6v4Lc245p5RYbAFcaeT"
-access_key = "1060794506-xoq3yDN6WY1OXrQqXTBTA7ZwjZ2s18dZ6MopxeF"
-access_secret = "QaUeRj9Zw1pUTURn3JMVXYfBTBb0hEBTir6ulEu97yzA4"
+# Fill it with your Twitter API credentials
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 
 def get_all_tweets(screen_name):
